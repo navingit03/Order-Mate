@@ -18,7 +18,7 @@ header{
   left: 0;
   width: 100%;
   z-index: 99;
-  background-color: #ff4757;
+  background-color: #007aff;
 }
 
 .nav{
@@ -117,7 +117,7 @@ transform: scale(1.5);
 .food-title{
   font-size: 1rem;
   font-weight: 600;
-  color:#ff6348;
+  color:#2ed573;
 }
 
 .food-price{
@@ -128,7 +128,7 @@ transform: scale(1.5);
   position: absolute;
   bottom: 0;
   right: 0;
-  background-color: #2ed573;
+  background-color: #ff6348;
   color:white;
   padding: 10px;
   font-size: 1.1rem;
